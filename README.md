@@ -6,6 +6,10 @@ Akses pakai VPN dan di  remote desktop
 User : admin
 Password : TAsingTENANAN
 
+## HOW TO SET UP
+1. Akses remote dengan windows + R, ketik command 'mstsc' dan input IP, user, serta password
+2. Lokasi ada di E ... nanti tolong terusin biar gk lupa cara set upnya
+
 ## DOKUMENTASI
 https://carla-ue5.readthedocs.io/en/latest/
 https://youtu.be/FwCiSRG0mp4?si=dYBJpqnbhzLRisQ-
