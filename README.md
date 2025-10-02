@@ -8,7 +8,14 @@ Password : TAsingTENANAN
 
 ## HOW TO SET UP
 1. Akses remote dengan windows + R, ketik command 'mstsc' dan input IP, user, serta password
-2. Lokasi ada di E ... nanti tolong terusin biar gk lupa cara set upnya
+2. Buka terminal anaconda, follow this picture
+<img width="1119" height="417" alt="image" src="https://github.com/user-attachments/assets/cc59b006-f575-4248-acba-811199a179e7" />
+
+3. to connect the app to the ipynb tutorial, its here https://youtu.be/ATNNdKCqHPA?si=4jec7kptBLNXWNC1 but FIRSTLY PASTIKAN CARLAUE4 APP SUDAH TERBUKA 
+4. open new terminal anaconda and follow command on this pic
+   <img width="1124" height="227" alt="image" src="https://github.com/user-attachments/assets/467ae878-f937-457a-9b66-608246fea460" />
+   
+5. youre all set up
 
 ## DOKUMENTASI
 https://carla-ue5.readthedocs.io/en/latest/
