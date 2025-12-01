@@ -1,4 +1,4 @@
-# KP-CARLA-FURI
+# KP-CARLA
 
 IP : 10.21.70.205
 
@@ -34,6 +34,17 @@ https://github.com/vadim7s/SelfDrive
 4. Garis traversal mobil atau navigation ditunjukkin di video dan data posisinya disimpen dalam bentuk tertulis
 5. Buat banyak video dengan variasi rute, cuaca, jam, variabel dll yang bisa diubah 
 6. Buat segmentation dan camera depth tolong diubah jadi array, jadi misal objek warna pink 1111, warna biru 0000, warna kuning 333, atau kalo depth nya beda dibuat jadi array of angka yang berbeda dll
+
+# PROSEDUR KP
+https://itsacid.sharepoint.com/sites/IF/SitePages/IF-AlihKredit&KP.aspx
+<img width="950" height="678" alt="image" src="https://github.com/user-attachments/assets/d3625a96-2daf-4cba-be60-75134131a3a2" />
+<img width="955" height="744" alt="image" src="https://github.com/user-attachments/assets/9aba9530-08e6-4c65-878a-6e6b86546c5a" />
+
+## Dokumen-dokumen KP
+https://drive.google.com/drive/folders/1u-7DE-I-eL4Aq_mhF2X4J7olIPfROzqQ
+
+## Form Pengajuan Kerja Praktik
+https://airtable.com/app7c3ncj4SAsYYLK/shrIkH94FTjmZgZC0
 
 ## CONTOH BUKU KP
 https://docs.google.com/document/d/1GZi4CBB7NuwV78k7ly2KEC7guDEhBOpQ2ZHFxFfsQNo/edit?tab=t.0
